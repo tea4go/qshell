@@ -18,6 +18,11 @@ QShell 提供高度自定义的界面风格，支持多会话管理、全局/会
 # 界面
 <img width="2032" height="1059" alt="SCR-20250801-ngdb" src="https://github.com/user-attachments/assets/5b41ec92-f1e2-496b-8d9a-58b780687b00" />
 <img width="2032" height="1055" alt="SCR-20250801-nhlq" src="https://github.com/user-attachments/assets/7715c0d5-9dc2-4926-a463-20927e21239b" />
+<img width="2032" height="1050" alt="Markdown" src="https://github.com/user-attachments/assets/eb3dbbef-350b-4448-a787-d022234a127b" />
+<img width="2032" height="1050" alt="mcp对话" src="https://github.com/user-attachments/assets/bb1bb004-eaf0-4cc9-b09c-866fbc64ac38" />
+<img width="2032" height="1050" alt="翻译" src="https://github.com/user-attachments/assets/359c7a74-f65b-4303-a27a-efe5af784434" />
+<img width="2032" height="1050" alt="远程桌面" src="https://github.com/user-attachments/assets/c91fe46f-1ea5-4493-9b96-6ba994d04f3b" />
+
 
 # 主要特性
 ## 一、终端会话
