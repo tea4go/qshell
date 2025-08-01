@@ -1,4 +1,8 @@
 # QShell
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![Go](https://img.shields.io/badge/Go-1.23%2B-blue.svg)](https://go.dev/)
+[![release](https://img.shields.io/badge/Version-5.3.7-green.svg)](https://github.com/tea4go/qshell/releases)
+
 QShell 是一款跨平台的现代化终端工具，集成 SSH、Telnet、密钥认证等多种远程连接方式，支持 FTP/SFTP 文件管理、远程文档编辑、文件上传下载等丰富功能。
 
 QShell 提供高度自定义的界面风格，支持多会话管理、全局/会话代理与隧道连接，并内置终端操作记录与回放。
