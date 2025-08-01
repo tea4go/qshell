@@ -16,7 +16,8 @@ QShell 提供高度自定义的界面风格，支持多会话管理、全局/会
 
 支持 Linux、Mac、Windows 平台，满足不同用户需求。
 # 界面
-
+<img width="2032" height="1059" alt="SCR-20250801-ngdb" src="https://github.com/user-attachments/assets/5b41ec92-f1e2-496b-8d9a-58b780687b00" />
+<img width="2032" height="1055" alt="SCR-20250801-nhlq" src="https://github.com/user-attachments/assets/7715c0d5-9dc2-4926-a463-20927e21239b" />
 
 # 主要特性
 ## 一、终端会话
@@ -61,3 +62,8 @@ QShell 提供高度自定义的界面风格，支持多会话管理、全局/会
 - 支持终端配置同步
 - 支持系统配置同步
 - 支持远程桌面配置同步
+
+# 文档
+📖 完整文档: [docs](https://tea4go.github.io/) - 使用教程
+🔄 更新日志: [CHANGELOG.md](https://tea4go.github.io/CHANGELOG) - 版本历史
+
