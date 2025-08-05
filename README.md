@@ -17,7 +17,7 @@ QShell 提供高度自定义的界面风格，支持多会话管理、全局/会
 支持 Linux、Mac、Windows 平台，满足不同用户需求。
 
 # 主要特性
-## 一、终端会话
+## 1. 终端会话
 - 支持 SSH、Telnet 协议，
 - 支持密钥认证，保障连接安全
 - 支持多会话管理，轻松切换不同主机或任务
@@ -32,7 +32,7 @@ QShell 提供高度自定义的界面风格，支持多会话管理、全局/会
 <img width="2032" height="1059" alt="SCR-20250801-ngdb" src="https://github.com/user-attachments/assets/5b41ec92-f1e2-496b-8d9a-58b780687b00" />
 
 
-## 二、文件管理
+## 2. 文件管理
 - 支持 FTP/SFTP 协议，支持管理本地文件
 - 支持文件上传下载
 - 支持多做文件上传覆盖模式
@@ -40,7 +40,7 @@ QShell 提供高度自定义的界面风格，支持多会话管理、全局/会
 <img width="2032" height="1055" alt="SCR-20250801-nhlq" src="https://github.com/user-attachments/assets/7715c0d5-9dc2-4926-a463-20927e21239b" />
 
 
-## 三、Markdown 笔记
+## 3. Markdown 笔记
 - 支持本地笔记管理
 - 支持原始编辑、即时渲染、所见即所得三种模式
 - 支持 Markdown 基础语法
@@ -50,7 +50,7 @@ QShell 提供高度自定义的界面风格，支持多会话管理、全局/会
 <img width="2032" height="1050" alt="Markdown" src="https://github.com/user-attachments/assets/eb3dbbef-350b-4448-a787-d022234a127b" />
 
 
-## 四、AIChat 助手
+## 4. AIChat 助手
 - 支持 OpenAI 模型
 - 兼容 OneAPI 平台
 - 支持 MCP
@@ -61,21 +61,21 @@ QShell 提供高度自定义的界面风格，支持多会话管理、全局/会
 <img width="2032" height="1049" alt="mcpfuwu" src="https://github.com/user-attachments/assets/b42c6409-6b62-4d80-a4a0-f48721be8e74" />
 <img width="2032" height="1055" alt="SCR-20250805-kanr" src="https://github.com/user-attachments/assets/fd786838-4216-430e-a345-b9b10401f95d" />
 
-## 五、翻译
+## 5. 翻译
 - 支持 OpenAI、Google 和 Microsoft 等主流翻译平台，满足多样化的翻译需求。
 - 支持截屏后直接翻译，大幅提升跨语言沟通效率。
 
 <img width="2032" height="1050" alt="翻译" src="https://github.com/user-attachments/assets/359c7a74-f65b-4303-a27a-efe5af784434" />
 
 
-## 六、远程桌面连接
+## 6. 远程桌面连接
 - 支持远程桌面连接功能，满足图形化界面管理需求，让您在终端之外也能高效操作远程主机。
 - 同时支持自定义连接参数，灵活适配不同使用场景。
 
 <img width="2032" height="1050" alt="远程桌面" src="https://github.com/user-attachments/assets/c91fe46f-1ea5-4493-9b96-6ba994d04f3b" />
 
 
-## 七、云同步
+## 7. 云同步
 - 支持终端配置同步
 - 支持系统配置同步
 - 支持远程桌面配置同步
