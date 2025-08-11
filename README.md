@@ -79,8 +79,7 @@ QShell 提供高度自定义的界面风格，支持多会话管理、全局/会
 - 支持终端配置同步
 - 支持系统配置同步
 - 支持远程桌面配置同步
-
-<img width="2032" height="1049" alt="云同步" src="https://github.com/user-attachments/assets/ab18f909-fd36-4f19-8248-0c6c0ec223e5" />
+<img width="2032" height="1049" alt="SCR-20250811-iwde" src="https://github.com/user-attachments/assets/4006e482-0287-44d8-ab8c-3b77a99fc3f7" />
 
 
 # 文档
