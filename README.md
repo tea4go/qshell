@@ -4,7 +4,7 @@
 [![release](https://img.shields.io/badge/Version-5.3.9-green.svg)](https://github.com/tea4go/qshell/releases)
 [![Documentation](https://img.shields.io/badge/docs-中文文档-green.svg)](https://tea4go.github.io/)
 
-> 🎉 **最新版本 5.3.9**: 同步优化、密钥支持一键复制、收藏命令支持拖拽
+> 🎉 **最新版本 5.5.7**
 >
 > 🎯 **核心功能**: 终端会话 | 文件管理 | Markdown 笔记 | AIChat 助手 | MCP | 翻译 | 远程桌面连接 | 云同步 
 > 
