@@ -1,7 +1,7 @@
 # QShell
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Go](https://img.shields.io/badge/Go-1.23%2B-blue.svg)](https://go.dev/)
-[![release](https://img.shields.io/badge/Version-5.3.9-green.svg)](https://github.com/tea4go/qshell/releases)
+[![release](https://img.shields.io/badge/Version-5.6.0-green.svg)](https://github.com/tea4go/qshell/releases)
 [![Documentation](https://img.shields.io/badge/docs-中文文档-green.svg)](https://tea4go.github.io/)
 
 > 🎉 **最新版本 5.6.0**
